@@ -1,0 +1,250 @@
+>7L1C_C:1-9 Chain C, mutant PIK3CA peptide [Homo sapiens]
+ALHGGWTTK
+>7L1B_C:3-9 Chain C, wild-type PIK3CA peptide [Homo sapiens]
+HGGWTTK
+>9ASG_C:1-9 Chain C, Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform [Homo sapiens]
+ALHGGXTTK
+>4YKN_A:1363-1369 Chain A, Phosphatidylinositol 3-kinase regulatory subunit alpha,Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform fusion protein [Homo sapiens]
+HGGWTTK
+>NP_032865.2:1048-1054 phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform [Mus musculus]
+HGGWTTK
+>BAG63856.1:926-932 unnamed protein product [Homo sapiens]
+HGGWTTK
+>XP_068422499.1:817-823 phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform isoform X2 [Clinocottus analis]
+HGGWTTK
+>EGW10761.1:66-72 Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha isoform [Cricetulus griseus]
+HGGWTTK
+>ADN43072.1:20-26 phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha isoform variant, partial [Homo sapiens]
+HGGWTTK
+>MOK58887.1:5-10 immunoglobulin heavy chain junction region [Homo sapiens]
+ALHGGW
+>MOM94536.1:6-12 immunoglobulin heavy chain junction region [Homo sapiens]
+LHSGWTT
+>KAI2576441.1:496-502 LOW QUALITY PROTEIN: transducin beta like 3 [Homo sapiens]
+LHAGWTT
+>EAW54948.1:5-10 hCG2002932, isoform CRA_b [Homo sapiens]
+GGWTTK
+>MFT1410868.1:4-12 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGGWCNTT
+>MBN4267528.1:4-10 immunoglobulin heavy chain junction region [Homo sapiens]
+HGGWYTK
+>9ASF_C:3-9 Chain C, Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform [Homo sapiens]
+HGGXTTK
+>EAX10218.1:163-169 hCG2019076 [Homo sapiens]
+ALHTGWT
+>XP_047302915.1:101-107 translation initiation factor IF-2-like [Homo sapiens]
+ALHTGWT
+>MFW7320689.1:9-13 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGGW
+>MCA76499.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGGW
+>MBB1692202.1:8-12 immunoglobulin light chain junction region [Homo sapiens]
+LHGGW
+>MOR03470.1:5-9 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGGW
+>MFT1578374.1:14-18 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGGW
+>MBB1975835.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+HGGWT
+>MFT1091704.1:14-18 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGGW
+>MCB67970.1:13-17 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGGW
+>NP_055501.2:899-903 granule associated Rac and RHOG effector protein 1 [Homo sapiens]
+LHGGW
+>NP_775393.2:268-272 E3 ubiquitin-protein ligase mib1 [Danio rerio]
+HGGWT
+>NP_775393.2:355-358 E3 ubiquitin-protein ligase mib1 [Danio rerio]
+HGEW
+>NP_065825.1:268-272 E3 ubiquitin-protein ligase MIB1 [Homo sapiens]
+HGGWT
+>NP_065825.1:355-358 E3 ubiquitin-protein ligase MIB1 [Homo sapiens]
+HGEW
+>7JIU_A:942-946 Chain A, Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform [Homo sapiens]
+HGGWT
+>XP_008578477.1:185-189 PREDICTED: E3 ubiquitin-protein ligase MIB1 [Galeopterus variegatus]
+HGGWT
+>XP_008578477.1:272-275 PREDICTED: E3 ubiquitin-protein ligase MIB1 [Galeopterus variegatus]
+HGEW
+>XP_011836211.1:134-138 PREDICTED: E3 ubiquitin-protein ligase MIB1, partial [Mandrillus leucophaeus]
+HGGWT
+>XP_011836211.1:221-224 PREDICTED: E3 ubiquitin-protein ligase MIB1, partial [Mandrillus leucophaeus]
+HGEW
+>BAD18526.1:543-547 unnamed protein product [Homo sapiens]
+LHGGW
+>XP_016881363.1:268-272 E3 ubiquitin-protein ligase MIB1 isoform X3 [Homo sapiens]
+HGGWT
+>XP_016881363.1:355-358 E3 ubiquitin-protein ligase MIB1 isoform X3 [Homo sapiens]
+HGEW
+>XP_016881364.1:268-272 E3 ubiquitin-protein ligase MIB1 isoform X4 [Homo sapiens]
+HGGWT
+>XP_016881364.1:355-358 E3 ubiquitin-protein ligase MIB1 isoform X4 [Homo sapiens]
+HGEW
+>NP_001599.1:386-390 long-chain specific acyl-CoA dehydrogenase, mitochondrial precursor [Homo sapiens]
+LHGGW
+>4XI6_A:262-266 Chain A, E3 ubiquitin-protein ligase MIB1 [Homo sapiens]
+HGGWT
+>4XI6_A:333-336 Chain A, E3 ubiquitin-protein ligase MIB1 [Homo sapiens]
+HGEW
+>NP_001034756.1:183-187 angiopoietin-related protein 4 isoform b precursor [Homo sapiens]
+HGGWT
+>XP_047300059.1:245-249 long-chain specific acyl-CoA dehydrogenase, mitochondrial isoform X2 [Homo sapiens]
+LHGGW
+>EAL23907.1:111-115 hypothetical gene supported by AY166699 [Homo sapiens]
+HGGWT
+>4TSE_A:33-37 Chain A, E3 ubiquitin-protein ligase MIB1 [Homo sapiens]
+HGGWT
+>4TSE_A:120-123 Chain A, E3 ubiquitin-protein ligase MIB1 [Homo sapiens]
+HGEW
+>EAW57523.1:65-69 hCG2001186, isoform CRA_b [Homo sapiens]
+HGGWT
+>QEP16542.1:98-102 IGH c2267_heavy_IGHV4-34_IGHD3-16_IGHJ1, partial [Homo sapiens]
+HGGWT
+>MFT1356829.1:6-11 immunoglobulin heavy chain junction region [Homo sapiens]
+LHSGWT
+>MBB1657158.1:6-10 immunoglobulin heavy chain junction region [Homo sapiens]
+GWTTK
+>NP_001374257.1:988-995 protein TASOR 2 isoform 3 [Homo sapiens]
+ALHGPWNT
+>NP_001308712.2:773-780 protein TASOR 2 isoform 1 [Homo sapiens]
+ALHGPWNT
+>NP_001374203.1:794-799 doublecortin domain-containing protein 1 isoform 6 [Homo sapiens]
+HGAWTT
+>NP_001374203.1:1614-1617 doublecortin domain-containing protein 1 isoform 6 [Homo sapiens]
+GGWT
+>XP_024304248.1:509-514 doublecortin domain-containing protein 1 isoform X13 [Homo sapiens]
+HGAWTT
+>XP_024304248.1:1329-1332 doublecortin domain-containing protein 1 isoform X13 [Homo sapiens]
+GGWT
+>XP_024304250.1:794-799 doublecortin domain-containing protein 1 isoform X15 [Homo sapiens]
+HGAWTT
+>XP_028689372.1:804-809 doublecortin domain-containing protein 1 isoform X4 [Macaca mulatta]
+HGAWTT
+>NP_001412251.1:359-364 calpain-5 isoform 1 [Homo sapiens]
+LHGAWT
+>NP_001412251.1:176-180 calpain-5 isoform 1 [Homo sapiens]
+ALDGG
+>NP_001018864.2:74-79 IQ calmodulin-binding motif-containing protein 1 isoform a [Homo sapiens]
+QGGWTT
+>NP_001412252.1:315-320 calpain-5 isoform 3 [Homo sapiens]
+LHGAWT
+>NP_001412252.1:132-136 calpain-5 isoform 3 [Homo sapiens]
+ALDGG
+>BAG52829.1:399-404 unnamed protein product [Homo sapiens]
+LHGAWT
+>BAG52829.1:216-220 unnamed protein product [Homo sapiens]
+ALDGG
+>NP_116213.1:411-415 transmembrane protein 87B isoform 1 precursor [Homo sapiens]
+GWTTK
+>NP_116213.1:130-133 transmembrane protein 87B isoform 1 precursor [Homo sapiens]
+WTTK
+>XP_054204455.1:74-79 IQ calmodulin-binding motif-containing protein 1 isoform X1 [Homo sapiens]
+QGGWTT
+>NP_001018865.2:74-79 IQ calmodulin-binding motif-containing protein 1 isoform c [Homo sapiens]
+QGGWTT
+>XP_047305208.1:74-79 IQ calmodulin-binding motif-containing protein 1 isoform X3 [Homo sapiens]
+QGGWTT
+>XP_054204459.1:74-79 IQ calmodulin-binding motif-containing protein 1 isoform X4 [Homo sapiens]
+QGGWTT
+>PNI54144.1:74-79 IQCB1 isoform 3 [Pan troglodytes]
+QGGWTT
+>EAW68251.1:87-92 hCG1990723, partial [Homo sapiens]
+HGAWTT
+>MON62055.1:7-12 immunoglobulin heavy chain junction region [Homo sapiens]
+HSGWTT
+>QEP15460.1:53-58 IGH c1185_heavy_IGHV4-34_IGHD5-24_IGHJ2, partial [Homo sapiens]
+HSGWTT
+>KAI2531096.1:74-79 IQ motif containing B1, partial [Homo sapiens]
+QGGWTT
+>MOK54045.1:2-7 immunoglobulin heavy chain junction region [Homo sapiens]
+ALHSGW
+>MFW3198721.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MFT1194338.1:6-11 immunoglobulin heavy chain junction region [Homo sapiens]
+LNGGWT
+>MFT1099003.1:4-9 immunoglobulin heavy chain junction region [Homo sapiens]
+ALHSGW
+>MOM61124.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MBN4362144.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MBK4190693.1:7-11 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MCA08263.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MFW3211214.1:5-9 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MFT1184431.1:9-13 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MFT1184430.1:9-13 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MFT1349725.1:5-9 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MCA03538.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MFT1262634.1:6-10 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MOL36511.1:4-9 immunoglobulin heavy chain junction region [Homo sapiens]
+ALHSGW
+>MFT1415972.1:7-12 immunoglobulin heavy chain junction region [Homo sapiens]
+LHGDWT
+>MBN4366909.1:7-12 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWSTK
+>MOP94594.1:4-8 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>MFW3267167.1:5-9 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>EAW99150.1:847-852 ADAM metallopeptidase with thrombospondin type 1 motif, 7, isoform CRA_c [Homo sapiens]
+LNGGWT
+>EAW99150.1:637-639 ADAM metallopeptidase with thrombospondin type 1 motif, 7, isoform CRA_c [Homo sapiens]
+GGW
+>EAW99150.1:1369-1373 ADAM metallopeptidase with thrombospondin type 1 motif, 7, isoform CRA_c [Homo sapiens]
+ALEGG
+>NP_055087.2:749-754 A disintegrin and metalloproteinase with thrombospondin motifs 7 preproprotein [Homo sapiens]
+LNGGWT
+>NP_055087.2:539-541 A disintegrin and metalloproteinase with thrombospondin motifs 7 preproprotein [Homo sapiens]
+GGW
+>NP_055087.2:1271-1275 A disintegrin and metalloproteinase with thrombospondin motifs 7 preproprotein [Homo sapiens]
+ALEGG
+>XP_047288079.1:496-501 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X2 [Homo sapiens]
+LNGGWT
+>XP_047288079.1:286-288 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X2 [Homo sapiens]
+GGW
+>XP_047288079.1:1018-1022 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X2 [Homo sapiens]
+ALEGG
+>XP_054233193.1:496-501 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X2 [Homo sapiens]
+LNGGWT
+>XP_054233193.1:286-288 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X2 [Homo sapiens]
+GGW
+>XP_054233193.1:1018-1022 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X2 [Homo sapiens]
+ALEGG
+>NP_001348.2:172-177 ATP-dependent RNA helicase A [Homo sapiens]
+LHGNWT
+>KAK7825251.1:176-181 hypothetical protein U0070_009740 [Myodes glareolus]
+LHGNWT
+>XP_054233194.1:167-172 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X3 [Homo sapiens]
+LNGGWT
+>XP_054233194.1:689-693 A disintegrin and metalloproteinase with thrombospondin motifs 7 isoform X3 [Homo sapiens]
+ALEGG
+>NP_001424215.1:1048-1056 phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform isoform 1 [Homo sapiens]
+ALRESWTTK
+>EAW91137.1:172-177 DEAH (Asp-Glu-Ala-His) box polypeptide 9, isoform CRA_a [Homo sapiens]
+LHGNWT
+>AAD56358.1:749-754 zinc metalloprotease ADAMTS7 [Homo sapiens]
+LNGGWT
+>AAD56358.1:539-541 zinc metalloprotease ADAMTS7 [Homo sapiens]
+GGW
+>NP_001161086.1:849-854 inner nuclear membrane protein Man1 isoform 2 [Homo sapiens]
+ALHGSW
+>EAW99151.1:749-754 ADAM metallopeptidase with thrombospondin type 1 motif, 7, isoform CRA_d [Homo sapiens]
+LNGGWT
+>EAW99151.1:539-541 ADAM metallopeptidase with thrombospondin type 1 motif, 7, isoform CRA_d [Homo sapiens]
+GGW
+>MFW3246061.1:5-9 immunoglobulin heavy chain junction region [Homo sapiens]
+GGWTT
+>NP_008890.2:166-171 zinc finger protein 17 isoform 2 [Homo sapiens]
+ALHSGW
+>XP_027954938.1:605-613 phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform isoform X3 [Eumetopias jubatus]
+ALRESWTTK
+>BAB85533.1:112-117 KIAA1947 protein, partial [Homo sapiens]
+ALHSGW

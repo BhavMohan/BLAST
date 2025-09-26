@@ -1,0 +1,26 @@
+Reference: ALHGGWTTK
+Homo sapiens hits (after removing X): 110
+Identical to reference (ignored for specificity): 1
+
+Discriminative positions (P = 1-based positions):
+  Conservative: [1, 8, 3, 7, 2]  (uncovered hits: 0)
+    Residues to define: P1:A, P8:T, P3:H, P7:T, P2:L  (motif: ATHTL)
+  Practical:    [1, 8, 3, 7, 2]  (uncovered hits: 0)
+    Residues to define: P1:A, P8:T, P3:H, P7:T, P2:L  (motif: ATHTL)
+
+Minimal contiguous unique window vs hits:
+  Conservative: none
+  Practical:    P2..P7 sequence LHGGWT
+
+Recommended specificity using minimal window (practical):
+  Positions: P2..P7  sequence LHGGWT
+  X-pattern: XLHGGWTXX
+
+Recommended specificity using greedy set (conservative):
+  Positions: [1, 8, 3, 7, 2]
+  Residues to define: P1:A, P8:T, P3:H, P7:T, P2:L
+  X-pattern: ALHXXXTTX
+
+Notes:
+- Conservative treats unknown residues ('?') as potentially matching, leading to stricter (sometimes impossible) uniqueness criteria.
+- Practical treats unknown residues as mismatches, providing actionable targets with available information.
